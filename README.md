@@ -15,7 +15,7 @@ To set up the development environment and make changes to the website, follow th
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/vidardoes/portfolio.git
+   git clone https://github.com/vidardoes/vidardoes.github.io.git
    ```
 
 2. Navigate to the project directory:
